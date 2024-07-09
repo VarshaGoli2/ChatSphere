@@ -1,4 +1,4 @@
-# ChatSphere - Real-Time Communication Platform
+# ChatSphere : Real-Time Communication Platform
 
 This is a real-time private chat application built using Angular (version 6.1.3), Node.js (version 8.9.4), MongoDB (version 3.6.3), and Socket.io. The frontend is a single-page application (SPA) that uses ng-bootstrap.
 
