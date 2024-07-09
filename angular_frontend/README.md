@@ -1,4 +1,4 @@
-# ChatSphere - Real-Time Communication Platform (Angular)
+# ChatSphere : Real-Time Communication Platform (Angular)
 
 This is the frontend for ChatSphere, a real-time private chat application built using Angular (version 6.1.3) and ng-bootstrap.
 
